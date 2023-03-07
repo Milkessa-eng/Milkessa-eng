@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Milkessa-eng
+- 👋 Hi, I’m @Milkessa-Negeri
 - My Passion is in ML,AI, Computer Vision and Electronics areas
 - 📫 How to reach me ... milkynegeri@gmail.com
 
