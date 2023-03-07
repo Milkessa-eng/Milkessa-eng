@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Milkessa-eng
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Web development
+- 👀 I’m interested in ML, AI and DS.
+- My Passion is in ML,AI, Computer Vision and Electronics areas
 - 📫 How to reach me ... milkynegeri@gmail.com
 
 <!---
